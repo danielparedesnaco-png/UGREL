@@ -1,0 +1,59 @@
+UGEL PANGOA · AULA DIGITAL
+CÓDIGO COMPLETO DE LA PÁGINA WEB
+
+CÓMO ABRIR LA PÁGINA EN WINDOWS
+1. Haz clic derecho en UGEL-Pangoa-Codigo-Completo.zip.
+2. Selecciona «Extraer todo» y abre la carpeta UGEL-Pangoa.
+3. Haz doble clic en index.html para abrir la página en tu navegador.
+   Conserva index.html, styles.css, los archivos .js y assets juntos.
+
+SI PREFIERES UN SOLO ARCHIVO
+Abre pagina_completa.html. Contiene la página, los estilos, el código
+JavaScript y las imágenes integrados; funciona sin conexión.
+
+ARCHIVOS INCLUIDOS
+- index.html: estructura y contenido de la página.
+- styles.css: colores, diseño adaptable y animaciones.
+- model.js: cálculos de regresión y generador de código Python.
+- app.js: menú, pestañas, gráfica y controles interactivos.
+- assets/: fotografías de Pangoa y el icono de la página.
+- regresion_simple.py: ejemplo ejecutable de regresión lineal simple.
+- pagina_completa.html: copia de toda la página en un único HTML.
+- LEEME.txt: estas instrucciones.
+
+CÓMO EDITAR LOS CÓDIGOS
+Abre la carpeta con Visual Studio Code u otro editor de texto.
+Cambia el contenido en index.html y el diseño en styles.css.
+Después guarda los archivos y actualiza el navegador.
+Para actualizar pagina_completa.html después de editar los archivos,
+será necesario volver a integrar el CSS, el JavaScript y las imágenes.
+
+CÓMO EJECUTAR PYTHON
+Instala Python 3 si todavía no lo tienes. Abre una terminal en esta
+carpeta y ejecuta:
+    python regresion_simple.py
+En Windows también puedes usar:
+    py regresion_simple.py
+No necesita instalar bibliotecas externas.
+
+EL LABORATORIO
+La demostración del navegador usa JavaScript para ajustar la recta
+por mínimos cuadrados. El archivo Python implementa el mismo método.
+Puedes entrenar el modelo, modificar los datos, mover el control de
+horas y copiar o descargar el Python con tus valores actuales.
+Los datos son ficticios y se usan únicamente con fines didácticos.
+
+CONEXIÓN A INTERNET
+index.html solicita tipografías de Google Fonts; si no hay conexión,
+utiliza las fuentes de tu computadora. Las imágenes están incluidas.
+pagina_completa.html utiliza fuentes locales y no requiere conexión
+para mostrar la página y utilizar el laboratorio. Los enlaces a fuentes
+y portales oficiales sí necesitan internet.
+
+CRÉDITOS
+La página es una propuesta educativa independiente sobre UGEL Pangoa.
+Las fuentes institucionales, referencias técnicas y créditos de las
+fotografías están al final de la página.
+
+PÁGINA PUBLICADA
+https://ugel-pangoa-aula-digital.indigolyric5.chatgpt.site
